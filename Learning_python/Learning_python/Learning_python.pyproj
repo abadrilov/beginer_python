@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5c7ef112-cd21-48b6-9ba0-d55f9c1eb795</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Learning_python.py</StartupFile>
+    <StartupFile>lesson4_hw3_mypractise.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Learning_python.py" />
-    <Compile Include="module1.py">
+    <Compile Include="lesson4_hw2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lesson4_hw3_mypractise.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
